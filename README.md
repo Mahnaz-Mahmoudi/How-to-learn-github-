@@ -1,5 +1,4 @@
-<b
->#How To Learn Gitub?</b>
+<b>How To Learn Gitub?</b>
 
 At first I wanna explain that what is Github?
 
