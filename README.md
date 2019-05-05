@@ -1,4 +1,4 @@
-<b>How To Learn Gitub?</b>
+## How To Learn <a href="http://github.com">GitHub</a>?
 
 At first I wanna explain that what is Github?
 
@@ -28,3 +28,4 @@ A repository is a location where all the files for
 a particular project are stored. Each project has 
 its own repo,and you can access it with a unique URL.
 
+[Mahnaz Mahmoudi](https://github.com/Mahnaz-Mahmoudi) *May 2019*
